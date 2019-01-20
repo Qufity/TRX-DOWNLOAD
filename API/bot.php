@@ -8,7 +8,7 @@ return;
 $confirmation_token = 'c286fa13'; 
 
 //Ключ доступа сообщества 
-$token = 'c0223f775444cf3d58a8a1442ec76a9571c8f58e3e24616d9440f73dc43022bbead9b2e576cb41d09c0a1'; 
+$token = 'd550e028133aa6fe6baf8e3fc7cce48800de1ed7f0989fe7c9857833af39ee78221e3bdc2f3504410d9e0'; 
 
 //Получаем и декодируем уведомление 
 $data = json_decode(file_get_contents('php://input')); 
