@@ -1,2 +1,2 @@
-# Shizofrenia
-yes
+# hello
+bye
